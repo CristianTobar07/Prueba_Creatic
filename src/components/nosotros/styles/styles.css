@@ -1,0 +1,16 @@
+.div-image {
+  max-width: 100%;
+  width: 15vw;
+  height: 15vw;
+  margin-left: 0%;
+  margin-right: 0%;
+  position: relative;
+  background-image: url("../../../images/text.png");
+  background-position: center;
+  background-size: cover;
+}
+.text-client {
+  font-size: 1vw;
+  margin-left: 15%;
+  margin-bottom: 6vw;
+}
